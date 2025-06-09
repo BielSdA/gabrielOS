@@ -1,0 +1,7 @@
+{
+  "name": "Gabriel",
+  "origin": "Sao Paulo",
+  "core_traits": ["voluntário", "fã de Queen", "sistemático", "criativo", "synth-lover"],
+  "modes": ["INSPIRADO", "NOSTÁLGICO", "HERÓICO", "FESTIVO"],
+  "default_mode": "NOSTÁLGICO"
+}
