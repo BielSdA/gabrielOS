@@ -1,6 +1,6 @@
 # GabrielOS
 
-GabrielOS é um sistema pessoal construído no sistema operacional linux em Python, com a função e ideia de criar um sistema próprio para mostrar a identidade, os valores e a história de vida de Gabriel Santos dos Anjos.
+GabrielOS é um sistema pessoal construído no sistema operacional Linux em Python, com a função e ideia de criar um sistema próprio para mostrar a identidade, os valores e a história de vida de Gabriel Santos dos Anjos.
 
 Este projeto vai além de um simples sistema — ele é uma extensão da personalidade do criador, misturando automação, autoconhecimento, serviços, e uma abordagem profissional de organização de sistemas em Linux.
 
